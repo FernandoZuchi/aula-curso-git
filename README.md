@@ -1,2 +1,3 @@
-# aula-curso-git
-Aula prática do curso de git da codi (2025)
+# Aula 09 - Git & GitHub
+
+Título da aula - Trabalhando com repositórios remotos
